@@ -39,7 +39,7 @@ function lose(user, comp) {
 }
 
 function draw(user, comp) {
-  result_div.innerHTML = convertToWord(user) + " same,same " + convertToWord(comp) + ". Draw!!"; 
+  result_div.innerHTML = convertToWord(user) + " Same " + convertToWord(comp) + ". Draw!"; 
 }
 
 /*---This function runs the random choice generation for above*/
