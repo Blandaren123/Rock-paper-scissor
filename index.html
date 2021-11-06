@@ -10,23 +10,28 @@
 <body>
 <header><h1>Rock, Paper, Scissor</h1></header>
 
-<section class="button">
-<div class="score-board">
 
-<div class="messages"></div>
-<div class="player"><h2>Your Score:<span id="player-score"></span></h2></div>
-<div class="computer"><h2>CPU Score:<span id="cpu-score"></span></h2></div>
+<div class="score-board">
+    <div id="user-label" class="badge">user</div>
+    <div id="comp-label" class="badge">comp</div>
+  <span id="user-score">0</span>:<span id="comp-score">0</span>
 
 </div>
 
-<h3>Pick One:</h3>
-<button class="control" data-choice="0">Rock</button>
-<button class="control" data-choice="1">Paper</button>
-<button class="control" data-choice="2">Scissor</button>
+<div class="result">
+    <p> ENDLESS GAME OF Rock paper scissors. </p>
+</div>
+
+<div class="selection">
+<h3>Pick One</h3>
+<button id="r" data-choice="0">rock</button>
+<button id="p" data-choice="1">paper</button>
+<button id="s" data-choice="2">scissor</button>
+</div>
 <div class="reset">
     <a href="index.html">Reset</a>
 </div>
-</section>    
+   
     <script src="assets/js/script.js"></script>
 </body>
 </html>
