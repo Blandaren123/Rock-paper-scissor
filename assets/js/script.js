@@ -62,7 +62,7 @@ function game(userChoice){
         draw(userChoice, computerChoice);
          break;
   }
-  // above is a switch statement - like an if statement but sometimes simpler. It currently doesn't work! A message should run in console when the buttons are clicked. ??? Ah it is because I used semicolon at the end of each case rather than colon. 
+ 
 }
 
 function main() {
