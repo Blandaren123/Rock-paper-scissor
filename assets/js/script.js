@@ -35,7 +35,7 @@ function lose(user, comp) {
   compScore ++;
   userScore_span.innerHTML = userScore; 
   compScore_span.innerHTML = compScore;
-  result_div.innerHTML = convertToWord(user) + " destroy " + convertToWord(comp) + ". You Lose!";  
+  result_div.innerHTML = convertToWord(user) + " Owned by " + convertToWord(comp) + ". You Lose!";  
 }
 
 function draw(user, comp) {
