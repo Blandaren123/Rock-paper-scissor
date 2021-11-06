@@ -1,0 +1,30 @@
+/*--body*/
+body {
+    background:white ;
+    font-family: "Raleway", sans-serif;
+    color: #5080ad;
+    text-align: center;
+}
+/*---header*/
+.heading {
+    text-align: center;
+}
+
+
+
+/*----reset*/
+
+a:link {
+    color: #5080ad;
+}
+
+a:visited {
+    color: #5080ad;
+}
+a:link {
+    text-decoration: none;
+}
+  
+a:visited {
+    text-decoration: none;
+}
