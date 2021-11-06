@@ -65,6 +65,7 @@ function game(userChoice){
  
 }
 
+/*--fixed eventlistener och click function*/
 function main() {
     rock_div.addEventListener('click', function() {
       game("r");
