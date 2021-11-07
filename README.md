@@ -22,10 +22,45 @@ Wish you luck and see how many points you can score against the computer!
 
 ![image](./assets/images/options.PNG)
 
-- __The Result__
+- __The Result/rule__
   * Your table score tells you whether or not you have taken a point
   * There is a text under the score board that tells you what happens if you win, lose, or draw based on your choices
   * You get one point when you win, but the computer gets one if you lose, and if you draw, nobody gets a point
 
 ![image](./assets/images/result.PNG) 
-  
+
+
+# Futures implement
+  * I want to add time limit and seee how many points you can get
+
+
+# Typography and color scheme
+  * Color: white and blue   
+
+# wireframes
+- __wireframes desktop__
+![image info](./assets/images/wireframes1.PNG)
+
+- __wireframes phone__
+![image info](./assets/images/wireframes2.PNG)
+
+
+# Technology
+- Wireframes for layout on desktop and mobile in Balsamiq tools.
+- This site was laid out and structured using HTML.
+- Style and appearance using CSS.
+- Javascript for game.
+- Use Github to deploy the project and read the README.
+- Gitpod is used for coding.
+- CodeInstuite project, YouTube, and Google for tutorials and troubleshooting.
+- Skype for contact with the mentor for tips and advice. 
+- jigsaw, W3c and lighthouse for testing and troubleshoot.
+
+# Testing
+
+- I tested this game on Microsoft edge and Chrome and it seems to works great.
+- The game is playable on desktops, iPads, and phones when I tested.
+- I can confirmed the game is working fine.
+
+
+
