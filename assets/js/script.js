@@ -21,9 +21,7 @@ function convertToWord (letter) {
   if (letter === "p") return "Paper"; 
   return "Scissors";
 }
-/*--function with return text if you Score,draw or lose
-
-*/
+/*--function with return text if you Score,draw or lose*/
 function win(user, comp) {
   userScore ++;
   userScore_span.innerHTML = userScore; 
@@ -39,7 +37,7 @@ function lose(user, comp) {
 }
 
 function draw(user, comp) {
-  result_div.innerHTML = convertToWord(user) + " Same " + convertToWord(comp) + ". Draw!"; 
+  result_div.innerHTML = convertToWord(user) + " Same " + convertToWord(comp) + ". Draw! No Point!"; 
 }
 
 /*---This function runs the random choice generation for above*/
