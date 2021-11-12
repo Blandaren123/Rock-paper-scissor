@@ -1,4 +1,6 @@
-/*--Declared DOM elements*/
+/*--Declared DOM elements
+Took some of the code from https://codepen.io/nicolarb/pen/PoYvamR
+*/
 let userScore = 0;
 let compScore = 0;
 const userScore_span = document.getElementById("user-score");
