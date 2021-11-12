@@ -29,6 +29,12 @@ Wish you luck and see how many points you can score against the computer!
 
 ![image](./assets/images/result.PNG) 
 
+- __The Reset Button__
+  * You can reset the score and the game by pressing the reset button
+
+  ![image](./assets/images/reset.PNG) 
+
+
 
 # Futures implement
   * I want to add time limit and seee how many points you can get
@@ -62,6 +68,7 @@ Wish you luck and see how many points you can score against the computer!
 - The game is playable on desktops, iPads, and phones when I tested.
 - I can confirmed the game is working fine.
 - Each rock, paper, and stone button works fine on mobile and desktop
+- The reset button works and resets the game and refreshes the site
 
 
 
