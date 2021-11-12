@@ -69,6 +69,18 @@ Wish you luck and see how many points you can score against the computer!
 - I can confirmed the game is working fine.
 - Each rock, paper, and stone button works fine on mobile and desktop
 - The reset button works and resets the game and refreshes the site
+- I confirmed the games were easy to understand and play
+
+# Bugs
+- Didnt get the inner messsage to work was missing a .
+
+![image info](./assets/images/bug1.PNG)
+
+- But after google and searching figured out and add the . and everything worked
+
+
+![image info](./assets/images/bug2.PNG)
+
 
 
 

@@ -26,7 +26,7 @@ function win(user, comp) {
   userScore ++;
   userScore_span.innerHTML = userScore; 
   compScore_span.innerHTML = compScore;
-  result_div.innerHTML = convertToWord(user) + " beats " + convertToWord(comp) + ". You win!"; 
+  result_div.innerHTML = convertToWord(user) + " Beats " + convertToWord(comp) + ". You win!"; 
 }
 
 function lose(user, comp) {
