@@ -1,5 +1,5 @@
 /*--Declared DOM elements
-Took some of the code from https://codepen.io/nicolarb/pen/PoYvamR
+Took some of the code from https://codepen.io/nicolarb/pen/PoYvamR and remake it
 */
 let userScore = 0;
 let compScore = 0;
