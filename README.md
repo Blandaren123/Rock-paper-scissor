@@ -81,6 +81,24 @@ Wish you luck and see how many points you can score against the computer!
 
 ![image info](./assets/images/bug2.PNG)
 
+# Unfixed Bugs
+No Unfixed Bugs
+
+# Validator Testing
+
+HTML
+- No Error on the official [w3c HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fblandaren123.github.io%2FRock-paper-scissor%2Findex.html)
+
+CSS
+- No Error on the official [jigsaw CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fblandaren123.github.io%2FRock-paper-scissor%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+Accessbility
+- It's confirmed that the colors and fonts chosen are readable in devtools when tested through Lighthouse
+
+![image info](./assets/images/lighthouse.PNG)
+
+
+
 
 
 
