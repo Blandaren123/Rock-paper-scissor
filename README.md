@@ -61,6 +61,7 @@ Wish you luck and see how many points you can score against the computer!
 - I tested this game on Microsoft edge and Chrome and it seems to works great.
 - The game is playable on desktops, iPads, and phones when I tested.
 - I can confirmed the game is working fine.
+- Each rock, paper, and stone button works fine on mobile and desktop
 
 
 
