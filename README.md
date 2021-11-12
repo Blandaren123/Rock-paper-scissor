@@ -106,7 +106,12 @@ Accessbility
 Here is the link [Rock Paper Scissor](https://blandaren123.github.io/Rock-paper-scissor/index.html)
 
 
+# Credits
 
+Contents 
+- How to create function and badge for rock paper scissor from youtube [here](https://www.youtube.com/watch?v=Qqy8Ov3NWvQ)
 
+Media
+- The image for button and about was taken from Wikipedia [Rock](https://en.wikipedia.org/wiki/Rock_paper_scissors#/media/File:Rock-paper-scissors_(rock).png) [paper](https://en.wikipedia.org/wiki/Rock_paper_scissors#/media/File:Rock-paper-scissors_(paper).png) [Scissor](https://en.wikipedia.org/wiki/Rock_paper_scissors#/media/File:Rock-paper-scissors_(scissors).png)
 
 
