@@ -97,6 +97,14 @@ Accessbility
 
 ![image info](./assets/images/lighthouse.PNG)
 
+# Deployment
+- This site was published through GitHub pages. To promote the site, follow these steps:
+1. In the GitHub repository, navigate to the Settings tab
+2. From the source section drop-down menu, select the Main Branch
+3. When the main branch is selected, a detailed ribbon display will show to indicate the successful deployment.
+
+Here is the link [Rock Paper Scissor](https://blandaren123.github.io/Rock-paper-scissor/index.html)
+
 
 
 
